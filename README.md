@@ -97,7 +97,7 @@ http://localhost:5173
 
 🌐 ონლაინ ვერსია
 
-🔗 საიტის ლინკი: (ჩასვი Netlify / GitHub Pages ლინკი)
+🔗 საიტის ლინკი: https://sage-pastelito-67a833.netlify.app
 
 -------------------------------------------------------------
 
@@ -200,7 +200,7 @@ http://localhost:5173
 
 🌐 Live Demo
 
-🔗 Deployed Site: (add Netlify / GitHub Pages link here)
+🔗 Deployed Site: https://sage-pastelito-67a833.netlify.app
 
 👨‍💻 Author
 Andria Gvenetadze
