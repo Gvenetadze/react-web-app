@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { Link } from 'react-router-dom'
 import { useLanguage } from '../context/LanguageContext'
 import Modal from '../components/Modal'
 
@@ -13,9 +14,9 @@ function Home() {
         <p>{t.homeText}</p>
 
         <div className="hero-actions">
-          <a href="/products" className="primary-btn">
+          <Link to="/products" className="primary-btn">
             {t.products}
-          </a>
+          </Link>
 
           <button
             className="secondary-btn"
