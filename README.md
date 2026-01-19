@@ -1,4 +1,5 @@
 🇬🇪 ქართული ვერსია
+
 პროექტის აღწერა
 
 SimpleShop არის მარტივი და რესპონსიული ვებ აპლიკაცია, შექმნილი React-ის გამოყენებით.
@@ -72,7 +73,7 @@ src/
 
 რეპოზიტორიის დაკლონვა:
 
-git clone https://github.com/your-username/simple-shop.git
+git clone https://github.com/Gvenetadze/react-web-app
 
 
 პროექტის ფოლდერში შესვლა:
@@ -175,7 +176,7 @@ How to Run the Project Locally
 
 Clone the repository:
 
-git clone https://github.com/your-username/simple-shop.git
+git clone https://github.com/Gvenetadze/react-web-app
 
 
 Navigate to the project folder:
